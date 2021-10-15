@@ -2,6 +2,8 @@ package StepDefinition;
 
 import io.cucumber.java.Before;
 
+//He He he
+
 public class Hooks {
 	
 	@Before("@DeletePlace") 
